@@ -1,5 +1,5 @@
 let name = 'baozun';
 let b = name === ‘baozun’ ? true : false ;
 function getInfo(){
-        return 'baozun'
+        return 'taobao'
 }
